@@ -1,0 +1,7 @@
+1. Writing algorithm
+2. flowchart
+3. software development
+4. testing
+5. debugging
+6. deployment and maintenace
+7. documentation
