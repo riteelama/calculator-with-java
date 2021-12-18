@@ -1,2 +1,2 @@
-# calculator-with-java
+# php-practice
 Calculator made using java
